@@ -2,24 +2,40 @@
 
 #include <stdio.h>
 
-void test()
+//void test()
+//{
+//	printf("haha\n");
+//}
+//
+//int main()
+//{
+//	int arr[10] = { 0 };
+//	test();
+//	int i = 0;
+//	for (i = 0; i < 10; i++)
+//	{
+//		arr[i] = i + 1;
+//	}
+//	for (i = 0; i < 10; i++)
+//	{
+//		printf("%d\n", arr[i]);
+//	}
+//
+//	return 0;
+//}
+
+void test1()
 {
-	printf("haha\n");
+	printf("Hello\n");
 }
 
-int main()
+void test()
 {
-	int arr[10] = { 0 };
-	test();
-	int i = 0;
-	for (i = 0; i < 10; i++)
-	{
-		arr[i] = i + 1;
-	}
-	for (i = 0; i < 10; i++)
-	{
-		printf("%d\n", arr[i]);
-	}
+	test1();
+}
 
+int main() 
+{
+	test();
 	return 0;
 }
