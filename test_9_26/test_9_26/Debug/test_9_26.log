@@ -1,0 +1,4 @@
+﻿  test.c
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_26\test_9_26\test.c(54,15): warning C4013: “Add”未定义；假设外部返回 int
+test.obj : error LNK2019: 无法解析的外部符号 _Add，函数 _main 中引用了该符号
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_26\Debug\test_9_26.exe : fatal error LNK1120: 1 个无法解析的外部命令
