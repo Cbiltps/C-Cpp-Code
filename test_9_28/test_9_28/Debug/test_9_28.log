@@ -1,0 +1,6 @@
+﻿  test.c
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_28\test_9_28\test.c(108,27): warning C4047: “函数”:“char *”与“char”的间接级别不同
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_28\test_9_28\test.c(108,23): warning C4024: “my_strcpy”: 形参和实参 1 的类型不同
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_28\test_9_28\test.c(110,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_28\test_9_28\test.c(106,1): warning C4047: “初始化”:“char”与“char [2]”的间接级别不同
+E:\学校工作及学习文件\Code\C_C++Code\The-road-of-learning\test_9_28\test_9_28\test.c(108,7): error C2120: 对于所有类型“void”非法
