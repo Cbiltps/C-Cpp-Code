@@ -161,3 +161,5 @@ int main()
 	//char arr2[3] = { 0 };
 
 	//4. 目标空间，必须可修改
+//char arr1[] = "abcdef";
+//const char* arr2 = "xxxxxxxxxxx";//目标空间没法修改，无法拷贝
