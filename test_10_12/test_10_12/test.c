@@ -112,17 +112,17 @@
 
 int main()
 {
-	 const char* arr[5] = { "abcdef", "bcdefg", "hehe", "haha", "zhangsan" };
-	//	//int i = 0;
-	//	//for (i = 0; i < 5; i++)
-	//	//{
-	//	//	printf("%s\n", arr[i]);
-	//	//}
-	//	//printf("%s\n", arr[2]);
-	//
-	//	//int* arr[5];//指针数组
-	//	////arr 是数组名，数组名是数组首元素的地址，int* 类型变量的地址
-	//	//int** p = arr;//ok &arr[0]
-	//	//int** p2 = &arr[3];
-	//	return 0;
+	const char* arr[5] = { "qwe", "rty", "uio", "asd", "dfg" };
+	
+	int i = 0;
+	for (i = 0; i < 5; i++)
+	{
+		printf("%s\n", arr[i]);// \s 打印字符串
+	}
+	
+	/*int* arr[5];*///指针数组
+	//arr 是数组名，数组名是数组首元素的地址，int* 类型变量的地址
+	//int** p = arr;//ok &arr[0]
+	//int** p2 = &arr[3];
+	return 0;
 }
